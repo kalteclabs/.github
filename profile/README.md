@@ -16,7 +16,7 @@ KALTEC is one 21-year-old software engineering student. No investors, no budget:
 
 ## Find us
 
-📷 [Instagram](https://www.instagram.com/kaltec.ai)
+▶️ [YouTube](https://www.youtube.com/@kalteclabs) · 📷 [Instagram](https://www.instagram.com/kaltec.ai) · 🎵 [TikTok](https://www.tiktok.com/@kaltec.ai) · 👍 [Facebook](https://www.facebook.com/kalteclabs) · 𝕏 [X](https://x.com/kalteclabs) · 💬 [Reddit](https://www.reddit.com/user/kalteclabs)
 
 ## Open source
 
