@@ -2,7 +2,10 @@
 
 **Open-source engineering and AI, built in Perth, Australia.**
 
-KALTEC designs practical products (car parts, software and AI tools) and publishes everything free to build: CAD, code, print files and guides. If you'd rather not build it yourself, we sell it ready to go. Every sale funds the next project.
+KALTEC designs practical engineering products, AI automations, and software solutions.
+Everything we build is public and open-soruced, free to use commerically just provide us credit!
+If you'd rather not build it yourself, we sell ready to go solutiuons and kits.
+Contact me directly for software solutions. all proceeds go back towards funding this organisation and future projects. 
 
 KALTEC is one 21-year-old software engineering student. No investors, no budget: self-funded, alongside paying for uni.
 
