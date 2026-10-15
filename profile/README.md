@@ -1,12 +1,10 @@
 # KALTEC
 
-**Open-source engineering and AI, built in Perth, Australia.**
+## Open-source engineering and AI solutions, built in Perth, Australia.
 
-KALTEC designs practical engineering products, AI automations and software solutions.
-Everything we build is public and open source. You're free to use it, even commercially: credit KALTEC, and share any changes to our hardware or docs under the same licence.
-If you'd rather not build it yourself, we sell ready-to-go solutions and kits.
-For software solutions, contact us at kalteclabs@gmail.com. All proceeds go back into funding KALTEC and future projects.
+Everything we build is public and open source. You're free to use it, even commercially! Just credit KALTEC, and share changes.
 
+For specialised software solutions, contact us at **kalteclabs@gmail.com.** All proceeds go back into funding KALTEC and future projects.
 KALTEC is one 21-year-old software engineering student. No investors, no budget: self-funded, alongside paying for uni.
 
 ## Find us
