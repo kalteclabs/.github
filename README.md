@@ -1,2 +1,0 @@
-# .github
-KALTEC organisation profile
