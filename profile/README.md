@@ -14,5 +14,4 @@ KALTEC is one 21-year-old software engineering student. No investors, no budget:
 
 ## Open source
 
-Hardware: CERN-OHL-S-2.0 · Docs: CC BY-SA 4.0 · Software: per project.
-Build it, remix it, share it: credit KALTEC, link back here, and keep your changes open under the same licence.
+Hardware: CERN-OHL-S-2.0 · Docs: CC BY-SA 4.0 · Software: MIT COMING SOON
