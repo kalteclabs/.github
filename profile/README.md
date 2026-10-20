@@ -1,3 +1,5 @@
+   <img alt="KALTEC" src="https://raw.githubusercontent.com/kalteclabs/.github/main/profile/kaltec-github-banner.png" width="100%">
+
 # KALTEC
 
 ## Open-source engineering and AI solutions, built in Perth, Australia.
