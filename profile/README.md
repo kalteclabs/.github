@@ -1,13 +1,14 @@
    <img alt="KALTEC" src="https://raw.githubusercontent.com/kalteclabs/.github/main/profile/kaltec-github-banner.png" width="100%">
    
 ## Open-source engineering and specialised AI solutions
-built in Perth, Australia.
 
-Everything we build is public and open source. You're free to use it, even commercially! Just credit KALTEC, and share changes.
+Everything we build is open source. You're free to use it, even commercially! Just credit KALTEC.
 
 For specialised software solutions, contact us at **kalteclabs@gmail.com.** All proceeds go back into funding KALTEC and future projects.
 
-KALTEC is one 21-year-old software engineering student. No investors, no budget: self-funded, alongside paying for uni.
+KALTEC is one 21-year-old software engineering student. No investors, no budget: self-funded, alongside paying for uni. 
+
+## All designs and products are 100% developed and built locally by me in Perth, Western Australia.
 
 ## Find us
 
