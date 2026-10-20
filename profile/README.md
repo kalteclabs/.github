@@ -9,7 +9,7 @@ For specialised software solutions, contact us at **kalteclabs@gmail.com.** All 
 KALTEC is one 21-year-old software engineering student. No investors, no budget: self-funded, alongside paying for uni. 
 
 ## All designs and products are 100% developed locally in Perth, Western Australia.
-▶️ [YouTube](https://www.youtube.com/@kalteclabs) · 📷 [Instagram](https://www.instagram.com/kaltec.ai) · 🎵 [TikTok](https://www.tiktok.com/@kaltec.ai) · 👍 [Facebook](https://www.facebook.com/kalteclabs) · 𝕏 [X](https://x.com/kalteclabs) · 💬 [Reddit](https://www.reddit.com/user/kalteclabs) · 💼 [LinkedIn](https://www.linkedin.com/company/kalteclabs) · 🖨️ [Printables](https://www.printables.com/@KALTEC_5526071) · 🛠️ [MakerWorld](https://makerworld.com/en/@kalteclabs)
+[YouTube](https://www.youtube.com/@kalteclabs) · [Instagram](https://www.instagram.com/kaltec.ai) · [Facebook](https://www.facebook.com/kalteclabs) · [LinkedIn](https://www.linkedin.com/company/kalteclabs) · [X](https://x.com/kalteclabs) · [Reddit](https://www.reddit.com/user/kalteclabs) · [TikTok](https://www.tiktok.com/@kaltec.ai) · [Printables](https://www.printables.com/@KALTEC_5526071) · [MakerWorld](https://makerworld.com/en/@kalteclabs)
 
 ## Open source
 Hardware: CERN-OHL-S-2.0 · Docs: CC BY-SA 4.0 · Software: MIT COMING SOON
