@@ -4,7 +4,7 @@
 
 Everything we build is open source. You're free to use it, even commercially! Just credit KALTEC.
 
-For specialised software solutions, contact us at **kalteclabs@gmail.com.** All proceeds go back into funding KALTEC and future projects.
+For specialised software solutions, contact us at **kalteclabs@gmail.com.** All proceeds go back into funding future projects.
 
 KALTEC is one 21-year-old software engineering student. No investors, no budget: self-funded, alongside paying for uni. 
 
